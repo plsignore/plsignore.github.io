@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Welcome to Lpunkt.com</title>
+ <link href="http://www.lpunkt.com/" rel="self"/>
+ <link href="http://www.lpunkt.com"/>
+ <updated>2013-08-23T16:35:00+02:00</updated>
+ <id>http://www.lpunkt.com</id>
+ <author>
+   <name>Till Lpunkt</name>
+   <email>cptflash42@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Rake Test Post</title>
+   <link href="http://www.lpunkt.com/2013/08/23/rake-test-post"/>
+   <updated>2013-08-23T00:00:00+02:00</updated>
+   <id>http://www.lpunkt.com/2013/08/23/rake-test-post</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Hello</title>
+   <link href="http://www.lpunkt.com/testing/2013/08/23/Hello"/>
+   <updated>2013-08-23T00:00:00+02:00</updated>
+   <id>http://www.lpunkt.com/testing/2013/08/23/Hello</id>
+   <content type="html">Hello World!
+This is my little test.
+
+Peace</content>
+ </entry>
+ 
+ 
+</feed>
