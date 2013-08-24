@@ -18,8 +18,14 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Work
+    url: /work
+  - title: Features
+    url: /features
   - title: About
     url: /about
+  - title: Contact
+    url: /contact
   - title: Github
     url: https://github.com/plsignore
     external: true
